@@ -1,6 +1,10 @@
-# Chan Jonathan
+# Hi, I'm Jonathan 👋
 
-Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chan-jian-hui-jonathan/)
+
+I'm a full stack developer with a passion for DevOps, and microservices.
+
+## Portfolio projects
 
 ## 🔭 I’m currently working on ...
 ## 🌱 I’m currently learning ...
