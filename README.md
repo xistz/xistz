@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan 👋
 
-<a href="https://www.linkedin.com/in/chan-jian-hui-jonathan" target="_blank"></a>
+<a href="https://www.linkedin.com/in/chan-jian-hui-jonathan" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn /></a>
 
 I'm a full stack developer with a passion for DevOps, and microservices.
 
